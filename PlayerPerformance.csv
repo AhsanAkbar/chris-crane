@@ -1,0 +1,51 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+chris crane,13-Feb-91,ODI # 669,v England,0,yes,no,England,Good,good,good,overcast,flatdeck and reverse swing,In form ,5,41
+chris crane,16-Feb-91,ODI # 670,v England,1,yes,no,England,Good,good,good,partly sunny,Dusty,In form ,5,55
+chris crane,11-Jan-92,Test # 1165,v England,1,no,yes,England,Good,good,good,overcast,Dusty,In form ,4,211
+chris crane,12-Feb-92,ODI # 701,v England,0,yes,no,Dunedin,Good,good,good,partly cloudy,Dusty,In form ,6,32
+chris crane,15-Feb-92,Test # 1183,v England,0,no,yes,Christchurch,Good,good,good,partly sunny,slow and low,In form ,4,118
+chris crane,22-Feb-92,Test # 1185,v Australia,0,yes,no,Auckland,Good,good,good,sunny,green top,In form ,5,138
+chris crane,29-Feb-92,Test # 1187,v South Africa,0,yes,no,Auckland,Good,good,good,partly cloudy,slow and low,In form ,5,173
+chris crane,3-Mar-92,ODI # 712,v Zimbabwe,1,no,yes,Zimbabwe,Good,good,good,overcast,Fast and bouncy,In form ,5,36
+chris crane,12-Mar-92,ODI # 713,v India,0,yes,no,Dunedin,Good,good,good,sunny,Dusty,In form ,5,37
+chris crane,15-Mar-92,ODI # 714,v England,1,no,yes,England,Average,good,good,overcast,green top,Out of form,6,30
+chris crane,12-Dec-93,ODI # 723,v Australia,1,no,yes,England,Good,good,average,partly cloudy,flatdeck and reverse swing,In form ,6,43
+chris crane,16-Dec-93,ODI # 728,v Australia,0,yes,no,Melbourne,Average,bad,average,sunny,slow and low,Out of form,7,27
+chris crane,18-Dec-93,ODI # 740,v South Africa,1,no,yes,Hobart,Good,good,good,overcast,Fast and bouncy,In form ,4,40
+chris crane,8-Jan-94,ODI # 744,v South Africa,1,no,yes,South Africa,Average,good,good,cloudy,slow and low,Out of form,5,21
+chris crane,11-Jan-94,Test # 1215,v Australia,0,yes,no,Austrailia,Good,good,good,overcast,green top,In form ,4,87
+chris crane,14-Jan-94,Test # 1216,v South Africa,0,yes,no,Austrailia,Good,good,good,cloudy,Dusty,In form ,5,77
+chris crane,19-Jan-94,Test # 1235,v Australia,0,no,yes,Austrailia,Good,good,good,partly cloudy,Dusty,In form ,5,125
+chris crane,3-Mar-94,Test # 1238,v Pakistan,0,yes,no,New Zealand,Average,good,average,cloudy,green top,In form ,4,128
+chris crane,6-Mar-94,ODI # 861,v Pakistan,0,yes,no,New Zealand,Average,bad,average,cloudy,Dusty,Out of form,6,27
+chris crane,9-Mar-94,ODI # 863,v Pakistan,1,no,yes,New Zealand,Good,good,average,partly cloudy,flatdeck and reverse swing,In form ,6,33
+chris crane,13-Mar-94,ODI # 865,v Pakistan,1,no,yes,England,Average,bad,average,partly cloudy,Fast and bouncy,Out of form,4,27
+chris crane,16-Mar-94,ODI # 870,v Pakistan,1,no,yes,England,Good,good,good,sunny,Fast and bouncy,In form ,5,44
+chris crane,16-Feb-95,ODI # 872,v India,1,no,yes,India,Average,good,good,sunny,green top,Out of form,5,18
+chris crane,19-Feb-95,ODI # 873,v Australia,0,no,yes,Auckland,Good,good,good,cloudy,flatdeck and reverse swing,In form ,6,32
+chris crane,23-Feb-95,ODI # 875,v South Africa,0,yes,no,Christchurch,Good,good,good,cloudy,green top,In form ,4,53
+chris crane,26-Feb-95,Test # 1248,v Australia,1,no,yes,Auckland,Good,good,average,sunny,green top,In form ,6,90
+chris crane,26-Mar-95,ODI # 889,v Sri Lanka,1,no,yes,Christchurch,Good,bad,bad,partly cloudy,Dusty,In form ,4,33
+chris crane,29-Mar-95,ODI # 891,v Sri Lanka,1,no,yes,Hamilton,Average,bad,bad,overcast,green top,Out of form,4,24
+chris crane,1-Apr-95,ODI # 893,v Sri Lanka,0,yes,no,Auckland,average,bad,bad,overcast,Dusty,Out of form,5,26
+chris crane,15-Nov-95,ODI # 894,v India,1,no,yes,India,Average,bad,bad,partly sunny,slow and low,Out of form,5,21
+chris crane,18-Nov-95,ODI # 895,v India,1,no,yes,India,Average,bad,bad,partly cloudy,slow and low,In form ,4,36
+chris crane,24-Nov-95,ODI # 976,v India,1,no,yes,India,Bad,bad,bad,overcast,slow and low,Out of form,5,17
+chris crane,26-Nov-95,ODI # 978,v India,0,yes,no,India,Average,bad,average,sunny,Fast and bouncy,Out of form,4,21
+chris crane,15-Dec-95,ODI # 981,v Pakistan,0,yes,no,New Zealand,Average,good,good,sunny,Dusty,Out of form,4,24
+chris crane,17-Dec-95,ODI # 983,v Pakistan,0,yes,no,New Zealand,Good,good,good,overcast,slow and low,DNB,DNB,-
+chris crane,20-Dec-95,ODI # 990,v Pakistan,0,yes,no,New Zealand,Good,good,good,overcast,Dusty,In form ,6,49
+chris crane,23-Dec-95,ODI # 991,v Pakistan,0,yes,no,New Zealand,Good,good,good,overcast,Fast and bouncy,DNB,DNB,-
+chris crane,28-Jan-96,ODI # 992,v Zimbabwe,0,yes,no,Zimbabwe,Good,good,good,partly cloudy,Dusty,In form ,7,45
+chris crane,14-Feb-96,Test # 1308,v England,0,yes,no,India,Average,good,good,overcast,slow and low,In form ,6,57
+chris crane,17-Feb-96,Test # 1309,v Netherlands,0,yes,no,Vadodara,bad,good,good,cloudy,slow and low,Out of form,4,18
+chris crane,20-Feb-96,Test # 1310,v South Africa,0,yes,no,Pakistan,Good,good,good,overcast,flatdeck and reverse swing,In form ,4,95
+chris crane,27-Feb-96,ODI # 1015,v U.A.E.,0,yes,no,Pakistan,Good,good,good,partly cloudy,slow and low,In form ,6,33
+chris crane,6-Mar-96,ODI # 1016,v Pakistan,0,yes,no,Pakistan,Good,good,good,overcast,flatdeck and reverse swing,In form ,4,33
+chris crane,11-Mar-96,ODI # 1017,v Australia,0,yes,no,India,Good,good,good,partly cloudy,slow and low,In form ,5,37
+chris crane,26-Mar-96,ODI # 1018,v West Indies,0,yes,no,Spain,Good,good,good,overcast,green top,In form ,6,32
+chris crane,29-Mar-96,Test # 1316,v West Indies,0,yes,no,Spain,Good,good,good,sunny,Fast and bouncy,In form ,5,165
+chris crane,30-Mar-96,ODI # 1020,v West Indies,0,yes,no,Spain,Good,good,good,partly sunny,green top,In form ,7,42
+chris crane,3-Apr-96,ODI # 1022,v West Indies,1,no,yes,England,Good,good,good,sunny,slow and low,In form ,5,42
+chris crane,6-Apr-96,ODI # 1025,v West Indies,1,no,yes,England,Good,good,good,sunny,Dusty,In form ,4,62
+chris crane,7-Nov-96,ODI # 1056,v Sri Lanka,1,no,yes,Sharjah,Good,good,good,cloudy,Fast and bouncy,In form ,5,71
